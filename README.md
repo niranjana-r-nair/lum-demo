@@ -1,3 +1,3 @@
 # lum-demo
-repository for study
+repository for study.
 author-niranjana
