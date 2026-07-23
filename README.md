@@ -1,4 +1,4 @@
 # lum-demo
 Repository for study.
 
-Author-niranjana
+Author-niranjana(luminar technolab)
